@@ -186,7 +186,10 @@ git fsck
 ```
 ###好的资料
 [廖雪峰Git教程](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
 [阮一峰，常用Git命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+[Git 官方教程](https://git-scm.com/book/zh/v1/起步-初次运行-Git-前的配置)
 
 
 
